@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="2001joe@korea.ac.kr" target="_blank"><img src="https://img.shields.io/badge/2001joe@korea.ac.kr-EA4335?style=flat&logo=appveyor&logoColor=EA4335"/></a>
+<a href="2001joe@korea.ac.kr" target="_blank"><img src="https://img.shields.io/badge/2001joe@korea.ac.kr-EA4335?style=flat&logo=gmail&logoColor=EA4335"/></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=easyminnn&show_icons=true&theme=radical)
