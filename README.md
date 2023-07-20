@@ -3,9 +3,7 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
+
   
 <!--
 **easyminnn/easyminnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +20,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">    ✉️Contact Me✉️
+<div align="center">    ✉️ Contact Me ✉️
+  <br/>
 <a href="2001joe@korea.ac.kr" target="_blank"><img src="https://img.shields.io/badge/2001joe@korea.ac.kr-EA4335?style=flat&logo=g&logoColor=EA4335"/></a>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=easyminnn&show_icons=true&theme=radical)
+
+  <br/>
+  <br/>
+  <br/>
+  
+![Jimin Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=easyminnn&show_icons=true&theme=radical)
