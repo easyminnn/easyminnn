@@ -8,7 +8,7 @@
 ## 🌱 I'm interested in ...
  - Data Communication & Computer Network
  - Cyber Security
- - AI DeepLearning & MachineLearning
+ - AI Deep Learning & Machine Learning
 
 ## Skill Set  
 
