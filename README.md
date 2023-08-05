@@ -26,3 +26,5 @@
 <br/>  
 
 ![Jimin Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=easyminnn&show_icons=true&theme=radical)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=2001joe)](https://solved.ac/2001joe)
