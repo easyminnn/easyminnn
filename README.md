@@ -20,7 +20,7 @@
 
 
 ## ✉️ Contact Me ✉
-<a href="2001joe@korea.ac.kr" target="_blank"><img src="https://img.shields.io/badge/2001joe@korea.ac.kr-EA4335?style=flat&logo=g&logoColor=EA4335"/></a>
+<a href="mailto:2001joe@korea.ac.kr" target="_blank"><img src="https://img.shields.io/badge/2001joe@korea.ac.kr-EA4335?style=flat&logo=g&logoColor=EA4335"/></a>
 
 <br/>
 
