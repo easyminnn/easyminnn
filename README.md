@@ -3,7 +3,7 @@
 <div align="left"> 
   
 ## 🔭 I'm currently working on...
- - Undergraduate Researh Student at System INtelligence Group (SING), KU
+ - Undergraduate Research Student at System INtelligence Group (SING), KU(Korea University)
 
 ## 🌱 I'm interested in ...
  - AI Deep Learning & Machine Learning
