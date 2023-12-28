@@ -8,8 +8,7 @@
 ## 🌱 I'm interested in ...
  - AI Deep Learning & Machine Learning
  - Data Communication & Computer Network
- - Cyber Security
-
+ - Web development(Frontend & Backend)
 ## Skill Set  
 
 ### Programming Languages  
