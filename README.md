@@ -3,7 +3,7 @@
 <div align="left"> 
   
 ## 🔭 I'm currently working on...
-
+Undergraduate Intern at Machine Learning & Vision Lab (MLVLAB), Korea Univ. CSE
 
 ## 🌱 I'm interested in ...
  - AI Deep Learning & Machine Learning
