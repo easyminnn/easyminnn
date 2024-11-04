@@ -6,9 +6,8 @@
  - Undergraduate Intern at [Machine Learning & Vision Lab (MLVLAB)](https://mlv.korea.ac.kr/home), Korea Univ. CSE
 
 ## 🌱 I'm interested in ...
- - AI Deep Learning & Machine Learning
- - Data Communication & Computer Network
- - Web development(Frontend & Backend)
+ - Multimodal Large Language Models(MLLMs)
+ - Video
 ## Skill Set  
 
 ### Programming Languages  
