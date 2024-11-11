@@ -3,7 +3,6 @@
 <div align="left"> 
   
 ## 🔭 I'm currently working on...
- - Undergraduate Intern at [Machine Learning & Vision Lab (MLVLAB)](https://mlv.korea.ac.kr/home), Korea Univ. CSE
 
 ## 🌱 I'm interested in ...
  - Multimodal Large Language Models(MLLMs)
