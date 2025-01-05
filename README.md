@@ -5,7 +5,9 @@
 ## 🔭 I'm currently working on...
 
 ## 🌱 I'm interested in ...
+
  - Multimodal Large Language Models(MLLMs)
+ - Large Language Models (LLMs)
  - Video
 ## Skill Set  
 
